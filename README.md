@@ -60,4 +60,4 @@ Then run examples from `queries.sql`. The CRUD script adds extra sample rows and
 
 ## Author
 
-Add your name here.
+By ved.
